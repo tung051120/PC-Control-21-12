@@ -38,9 +38,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\PC Control 2112\\module 1\\BTVN_1\\BTVN_1_1\\Program.cs",
               "RelativeDocumentMoniker": "BTVN_1_1\\Program.cs",
-              "ToolTip": "D:\\PC Control 2112\\module 1\\BTVN_1\\BTVN_1_1\\Program.cs",
-              "RelativeToolTip": "BTVN_1_1\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCgAAABbAAAAAAAAAA==",
+              "ToolTip": "D:\\PC Control 2112\\module 1\\BTVN_1\\BTVN_1_1\\Program.cs*",
+              "RelativeToolTip": "BTVN_1_1\\Program.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-22T15:25:30.707Z",
               "EditorCaption": ""
@@ -66,7 +66,7 @@
               "RelativeDocumentMoniker": "BTVN_1_3\\Program.cs",
               "ToolTip": "D:\\PC Control 2112\\module 1\\BTVN_1\\BTVN_1_3\\Program.cs",
               "RelativeToolTip": "BTVN_1_3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-22T15:09:55.51Z",
               "EditorCaption": ""
@@ -81,8 +81,7 @@
               "RelativeToolTip": "BTVN_1_4\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T15:10:16.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T15:10:16.033Z"
             },
             {
               "$type": "Document",
@@ -94,8 +93,7 @@
               "RelativeToolTip": "BTVN_1_5\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T15:10:30.138Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T15:10:30.138Z"
             }
           ]
         }
