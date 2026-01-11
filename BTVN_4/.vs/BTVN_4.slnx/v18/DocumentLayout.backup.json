@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PC Control 2112\\module 1\\BTVN_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69BFF32E-79C4-4232-84DA-735FEC9C4171}|BTVN_4_4\\BTVN_4_4.csproj|d:\\pc control 2112\\module 1\\btvn_4\\btvn_4_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BFF32E-79C4-4232-84DA-735FEC9C4171}|BTVN_4_4\\BTVN_4_4.csproj|solutionrelative:btvn_4_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D776F2B-7472-4310-BC4E-1886A87667CB}|BTVN_4_3\\BTVN_4_3.csproj|d:\\pc control 2112\\module 1\\btvn_4\\btvn_4_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D776F2B-7472-4310-BC4E-1886A87667CB}|BTVN_4_3\\BTVN_4_3.csproj|solutionrelative:btvn_4_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D6CD10E-4BA4-49AF-9A2C-D61CE760585C}|BTVN_4_2\\BTVN_4_2.csproj|d:\\pc control 2112\\module 1\\btvn_4\\btvn_4_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D6CD10E-4BA4-49AF-9A2C-D61CE760585C}|BTVN_4_2\\BTVN_4_2.csproj|solutionrelative:btvn_4_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C864481-3F74-46B7-BFB7-2860263DFB3D}|BTVN_4_1\\BTVN_4_1.csproj|d:\\pc control 2112\\module 1\\btvn_4\\btvn_4_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C864481-3F74-46B7-BFB7-2860263DFB3D}|BTVN_4_1\\BTVN_4_1.csproj|solutionrelative:btvn_4_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PC Control 2112\\module 1\\BTVN_4\\BTVN_4_4\\Program.cs",
+              "RelativeDocumentMoniker": "BTVN_4_4\\Program.cs",
+              "ToolTip": "D:\\PC Control 2112\\module 1\\BTVN_4\\BTVN_4_4\\Program.cs*",
+              "RelativeToolTip": "BTVN_4_4\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T02:53:26.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PC Control 2112\\module 1\\BTVN_4\\BTVN_4_3\\Program.cs",
+              "RelativeDocumentMoniker": "BTVN_4_3\\Program.cs",
+              "ToolTip": "D:\\PC Control 2112\\module 1\\BTVN_4\\BTVN_4_3\\Program.cs",
+              "RelativeToolTip": "BTVN_4_3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T01:17:18.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PC Control 2112\\module 1\\BTVN_4\\BTVN_4_2\\Program.cs",
+              "RelativeDocumentMoniker": "BTVN_4_2\\Program.cs",
+              "ToolTip": "D:\\PC Control 2112\\module 1\\BTVN_4\\BTVN_4_2\\Program.cs",
+              "RelativeToolTip": "BTVN_4_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T00:28:18.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PC Control 2112\\module 1\\BTVN_4\\BTVN_4_1\\Program.cs",
+              "RelativeDocumentMoniker": "BTVN_4_1\\Program.cs",
+              "ToolTip": "D:\\PC Control 2112\\module 1\\BTVN_4\\BTVN_4_1\\Program.cs",
+              "RelativeToolTip": "BTVN_4_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T00:07:12.662Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
