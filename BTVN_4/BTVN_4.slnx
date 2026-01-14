@@ -3,4 +3,6 @@
   <Project Path="BTVN_4_2/BTVN_4_2.csproj" />
   <Project Path="BTVN_4_3/BTVN_4_3.csproj" />
   <Project Path="BTVN_4_4/BTVN_4_4.csproj" />
+  <Project Path="BTVN_4_5/BTVN_4_5.csproj" Id="01320f05-3868-4118-9262-836d8b3caabd" />
+  <Project Path="BTVN_4_6/BTVN_4_6.csproj" Id="3bf3d20a-c958-4c4b-80c4-79cab6837a59" />
 </Solution>

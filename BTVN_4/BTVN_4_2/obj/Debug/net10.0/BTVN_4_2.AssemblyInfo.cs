@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BTVN_4_2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f4328d2c6bf16f0a851d1adb0a227140c46d2d8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e964a159e1ffbc9c219dd715f3932882276ec00")]
 [assembly: System.Reflection.AssemblyProductAttribute("BTVN_4_2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BTVN_4_2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
